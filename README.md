@@ -35,20 +35,16 @@ spring-boot-crud/
 Clone the repository:
 
 bash
-Copy
-Edit
-git clone https://github.com/your-username/spring-boot-crud.git
-cd spring-boot-crud
+
+git clone https://github.com/ssakibb0/Spring-boot-Diff-btw-controller-RestController.git
+cd Spring-boot-Diff-btw-controller-RestController
 Build and run the app using Maven:
 
 bash
-Copy
-Edit
+
 ./mvnw spring-boot:run
 Open your browser and visit:
-
 http://localhost:8080/hello
-
 http://localhost:8080/web/hello
 
 📦 Dependencies Used
